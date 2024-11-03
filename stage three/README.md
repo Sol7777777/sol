@@ -1,0 +1,1 @@
+在core_simple的基础上进行修改得到了core，对Variable基类和一些core中和functions中的运算函数进行了修改，现在可以从core中导入支持高阶导数运算的类和函数了。
